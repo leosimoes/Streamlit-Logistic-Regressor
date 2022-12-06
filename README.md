@@ -2,7 +2,11 @@
 
 Author: Leonardo Simões
 
-URL (temporary): https://share.streamlit.io/leosimoes/streamlit-logistic-regressor
+URLs (temporary): 
+
+https://share.streamlit.io/leosimoes/streamlit-logistic-regressor
+
+https://leosimoes-streamlit-logistic-regressor-streamlit-app-zrddp5.streamlit.app/
 
 Some of the functionalities applied to the dataset:
 * display head;
