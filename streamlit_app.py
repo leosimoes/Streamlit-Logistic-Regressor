@@ -1,8 +1,8 @@
 import streamlit as st
-from DataLoader import DataLoader
-from DataEvaluator import DataEvaluator
-from GraphicGenerator import GraphicGenerator
-from LogisticRegressor import LogisticRegressor
+from DataProcessor.DataLoader import DataLoader
+from DataProcessor.DataEvaluator import DataEvaluator
+from DataProcessor.GraphicGenerator import GraphicGenerator
+from DataProcessor.LogisticRegressor import LogisticRegressor
 
 # To run the APP: streamlit run streamlit_app.py
 if __name__ == '__main__':
