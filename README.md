@@ -2,12 +2,14 @@
 
 Author: Leonardo Simões
 
-URLs (temporary): 
+## How to use the application
+To access an application hosted on the Streamlit Community Cloud:
+[Link](https://logistic-regression.streamlit.app)
 
-https://share.streamlit.io/leosimoes/streamlit-logistic-regressor
+To run the project locally after downloading it, install the dependencies and run the `streamlit run streamlit_app.py` command.
 
-https://leosimoes-streamlit-logistic-regressor-streamlit-app-zrddp5.streamlit.app/
 
+## Functionalities
 Some of the functionalities applied to the dataset:
 * display head;
 * display dimensions;
@@ -19,6 +21,5 @@ Some of the functionalities applied to the dataset:
 * calculate and display logistic regression parameters. 
 
 
-
 ## Class diagram
-![fluxo da análise de dados](LogisticRegressor-Classes.JPG)
+![UML Class diagram](Diagram-UML-Class.png)
